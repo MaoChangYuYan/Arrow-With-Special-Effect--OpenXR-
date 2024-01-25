@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
+  m_Name: Readme
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: 89834c44b49daa644b19479911f01701, type: 3}
+  title: VR Bow and Arrow - Prototype Series
+  sections:
+  - heading: What is this project?
+    text: 'This VR project is a demonstration on how some of the systems within the
+      XR Interaction Toolkit are used to create game mechanics like a bow and arrow '
+    linkText: 
+    url: 
+  - heading: How was this made?
+    text: "We\u2019ve made an overview video that explore the steps behind the creation
+      process. You can find it  on our Youtube channel. "
+    linkText: Watch the video
+    url: https://youtu.be/jRBeP4_qJ9w
+  - heading: Controls
+    text: Press the grab button on the bow with one hand and then use your other
+      hand to reach for the quiver on your shoulder, you will feel a small haptic
+      indicating that your hand is within range of the arrow. Once you feel the haptic
+      feedback, press and hold the grab button to select the arrow and then move
+      it towards the bow string. Now all you need to do is pulll the arrow and release
+      the grab button to release the arrow.
+    linkText: 
+    url: 
+  loadedLayout: 1
